@@ -1,0 +1,15 @@
+.text-box{
+    border: 3px solid black;
+}
+#greycol{
+    color: grey;
+}
+.yellow{
+    color: yellow;
+}
+.text-box:nth-child(5){
+    color: red;
+}
+.text-box:nth-child(7){
+    color: green;
+}
